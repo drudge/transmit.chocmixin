@@ -1,6 +1,6 @@
 # Transmit 4 mixin for Chocolat
 
-This mixin adds actions to upload your current document via open Transmit connections from within Chocolat.
+This mixin adds actions to upload your current document via open Transmit connections from within [Chocolat](http://chocolatapp.com).
 
 ## Requirements
 
