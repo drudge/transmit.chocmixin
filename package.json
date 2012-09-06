@@ -1,0 +1,21 @@
+{
+  "name": "transmit",
+  "version": "1.0.0",
+  "description": "Upload files using Transmit 4 from Chocolat",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drudge/transmit.chocmixin.git"
+  },
+  "keywords": [
+    "transmit",
+    "file",
+    "upload",
+    "transfer",
+    "ftp",
+    "sftp",
+    "s3"
+  ],
+  "author": "Nicholas Penree <nick@penree.com>",
+  "license": "MIT"
+}
